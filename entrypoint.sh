@@ -40,7 +40,7 @@ RUN apt-get update && \
         python3-watchdog \
         python3-xlrd \
         python3-xlwt \
-        xz-utils && \
+        xz-utils  
     
 	
 	RUN npm install -g rtlcss
